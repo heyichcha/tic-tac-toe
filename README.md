@@ -23,3 +23,5 @@ Play online: [https://heyichcha.github.io/tic-tac-toe/](https://heyichcha.github
 - HTML
 - CSS
 - JavaScript
+![Tic Tac Toe Screenshot](assets/Screenshot1.png)
+![Tic Tac Toe Screenshot](assets/Screenshot2.png)
